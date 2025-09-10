@@ -1,7 +1,11 @@
-h1{
+nav{
+    color: antiquewhite;
+    background-color: rgb(164, 88, 234);
+}
+h2{
     background-color: plum;
 }
-head{
+footer{
     color: antiquewhite;
-    background-color: blueviolet;
+    background-color: rgb(133, 138, 228);
 }
